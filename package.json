@@ -1,0 +1,22 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuchengli/algo.git"
+  },
+  "author": "lixucheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuchengli/algo/issues"
+  },
+  "homepage": "https://github.com/xuchengli/algo#readme",
+  "dependencies": {
+    "log4js": "^6.9.1"
+  }
+}
